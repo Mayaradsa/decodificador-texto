@@ -9,7 +9,7 @@ Projeto desenvolvido em conjunto com a Alura, que tem a função de criptografar
 
 # Acesso ao projeto
 
-Para acessar o projeto final:[Clique aqui!](file:///C:/Users/bs_na/Desktop/Decodificador%20Alura/index.html)
+Para acessar o projeto final: [Clique aqui!](https://decodificador-texto-hf0xypsk1-mayaradsas-projects.vercel.app/)
 
 # Tecnologias utilizadas
 
